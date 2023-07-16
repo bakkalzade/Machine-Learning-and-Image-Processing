@@ -1,2 +1,3 @@
 
-Implemented Kernel Density Estimation (KDE) and k-nearest neighbor-density estimation methods for density estimation and classification using a Bayesian approach. Computed the likelihood and class priors from the training data and estimated the posterior probabilities for each test sample.
+Implemented Kernel Density Estimation (KDE) and k-nearest neighbor-density estimation methods for density estimation and classification using a Bayesian approach. 
+Computed the likelihood and class priors from the training data and estimated the posterior probabilities for each test sample.
